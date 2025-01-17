@@ -1,0 +1,2 @@
+# Elixir Enum.reduce Bug
+This repository demonstrates a common error when using `Enum.reduce` in Elixir: omitting the explicit return statement in the anonymous function.  The code in `bug.exs` illustrates this mistake, leading to an unexpected result. The corrected version is shown in `bugSolution.exs`.
